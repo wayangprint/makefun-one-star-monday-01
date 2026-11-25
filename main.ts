@@ -1,6 +1,8 @@
 // One-star review of Monday, as if Monday were a restaurant.
-// A tired office worker's verdict: cold coffee, a screaming alarm for a
-// waiter, and a full week's price for a single day. Max 25 words.
+// Written for the tired office worker judging it: three grievances a
+// group chat recognises instantly (no table, cold coffee, a screaming
+// alarm for a waiter) and one punchline that lands the joke — charged
+// a full week's price for a single day. Max 25 words.
 import { mkdirSync, writeFileSync, chmodSync } from "node:fs";
 
 const LINE = "One star. Arrived Monday, no table ready, coffee cold, the waiter — my alarm — screamed at me, and they charged me a week for one day.";
